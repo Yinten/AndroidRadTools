@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Calculating a Surface Normal Blog" url="http://www.ryangmattison.com/LazyAndroidUpdateSite">
+      Calculating a Surface Normal Blog
+   </description>
+   <feature url="features/LazyAndroidFeature_1.0.0.4.jar" id="LazyAndroidFeature" version="1.0.0.61">
+      <category name="andtools"/>
+   </feature>
+   <category-def name="andtools" label="Android Tools">
+      <description>
+         Here will be a boat load of Android Tools in the near future.  Visit http://www.ryangmattison.com for updates.
+      </description>
+   </category-def>
+</site>

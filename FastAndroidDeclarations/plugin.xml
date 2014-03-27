@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.popupMenus">
+      <objectContribution
+            objectClass="org.eclipse.core.resources.IFile"
+            id="FastAndroidDeclarations.contribution1"
+            nameFilter="*.xml">
+         <menu
+               label="Fast Layout"
+               path="additions"
+               
+               id="FastAndroidDeclarations.menu1">
+            <separator
+                  name="group1">
+            </separator>
+         </menu>
+         <action
+               label="Generate Activity"
+               class="fastandroiddeclarations.popup.actions.GenerateXML"
+               menubarPath="FastAndroidDeclarations.menu1/group1"
+               enablesFor="1"
+               id="FastAndroidDeclarations.newAction">
+         </action>
+      </objectContribution>
+   </extension>
+   
+   
+
+</plugin>

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FastAndroidDeclarations
+Bundle-SymbolicName: FastAndroidDeclarations; singleton:=true
+Bundle-Version: 1.0.0.61
+Bundle-Activator: fastandroiddeclarations.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
