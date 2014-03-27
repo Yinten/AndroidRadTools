@@ -12,3 +12,9 @@ or simply drag this icon onto your Ecilpse window.
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=113218" title="Drag and drop into a running Eclipse Indigo workspace to install Lazy Android">
   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
 </a>
+
+
+
+This project is open source, contribute freely to Dev and create pull request for Master. 
+
+Thanks for any future contributions! 
